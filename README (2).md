@@ -113,7 +113,7 @@ mvn spring-boot:run
 Open browser:
 
 ```
-http://localhost:8080/
+http://localhost:7865/
 ```
 
 ---
