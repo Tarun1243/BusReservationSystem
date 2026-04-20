@@ -11,3 +11,5 @@ public class BusResrvationSystemApplication {
 	}
 
 }
+
+//http:localhost:7865/
